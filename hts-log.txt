@@ -1,0 +1,606 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 08 Jun 2023 06:30:33 at http://demo.designwall.com/dw-focus/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.designwall.com/dw-focus/ -O1 "C:\Users\kcjon\OneDrive\Desktop\news template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:32:37	Error: 	"Method Not Allowed" (405) at link demo.designwall.com/dw-focus/xmlrpc.php (from demo.designwall.com/dw-focus/)
+06:33:19	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/time-to-get-tough-with-north-korea-and-iran-as-imminent-nuclear-bomb-test-looms/ (from demo.designwall.com/dw-focus/)
+06:35:07	Error: 	"Error when decompressing" (-1) at link demo.designwall.com/dw-focus/psy-gangnam-style-강남스타일-mv/ (from demo.designwall.com/dw-focus/)
+06:41:32	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/umbrella-beach/ (from demo.designwall.com/dw-focus/)
+06:41:55	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/london-demystify-the-guts-of-personal-technology/ (from demo.designwall.com/dw-focus/)
+06:41:55	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/secret-amish-mafia-carry-guns-drive-cadillacs/ (from demo.designwall.com/dw-focus/)
+06:41:59	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/counter-strike-global-offensive-trailer/ (from demo.designwall.com/dw-focus/)
+06:42:02	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/fonts/glyphicons-halflings-regular.eot (from demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/css/dw-focus.min.css?ver=1.3.3)
+06:42:02	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/fonts/glyphicons-halflings-regular.eot? (from demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/css/dw-focus.min.css?ver=1.3.3)
+06:42:02	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/fonts/glyphicons-halflings-regular.woff2 (from demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/css/dw-focus.min.css?ver=1.3.3)
+06:42:02	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/fonts/glyphicons-halflings-regular.woff (from demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/css/dw-focus.min.css?ver=1.3.3)
+06:42:03	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/fonts/glyphicons-halflings-regular.ttf (from demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/css/dw-focus.min.css?ver=1.3.3)
+06:42:03	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/fonts/glyphicons-halflings-regular.svg (from demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/css/dw-focus.min.css?ver=1.3.3)
+06:42:03	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/font/fontawesome-webfont.ttf?v=4.5.0 (from demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/css/dw-focus.min.css?ver=1.3.3)
+06:42:04	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/category/business/page/2/ (from demo.designwall.com/dw-focus/category/business/)
+06:42:07	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/dw-focus-green-logo.png (from demo.designwall.com/dw-focus/category/business/)
+06:42:59	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/author/colton-byford/ (from demo.designwall.com/dw-focus/category/business/)
+06:47:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=533
+06:47:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=533 to http://demo.designwall.com/dw-focus/j-o-o-m-solutions-company-overview/
+06:47:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/j-o-o-m-solutions-company-overview/javascript.void(0); (from demo.designwall.com/dw-focus/j-o-o-m-solutions-company-overview/)
+06:47:25	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=543
+06:47:25	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=543 to http://demo.designwall.com/dw-focus/republicans-are-on-the-right-course-for-next-fiscal-fight/
+06:47:25	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Frepublicans-are-on-the-right-course-for-next-fiscal-fight%2F&format=xml (from demo.designwall.com/dw-focus/republicans-are-on-the-right-course-for-next-fiscal-fight/)
+06:47:25	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/republicans-are-on-the-right-course-for-next-fiscal-fight/javascript.void(0); (from demo.designwall.com/dw-focus/republicans-are-on-the-right-course-for-next-fiscal-fight/)
+06:47:26	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=521
+06:47:26	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=521 to http://demo.designwall.com/dw-focus/bp-record-4bn-penalty-approved/
+06:47:26	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/bp-record-4bn-penalty-approved/javascript.void(0); (from demo.designwall.com/dw-focus/bp-record-4bn-penalty-approved/)
+06:47:28	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=517
+06:47:28	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=517 to http://demo.designwall.com/dw-focus/10-new-questions-congress-needs-to-ask-clinton-about-middle-east-policy/
+06:47:28	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/10-new-questions-congress-needs-to-ask-clinton-about-middle-east-policy/javascript.void(0); (from demo.designwall.com/dw-focus/10-new-questions-congress-needs-to-ask-clinton-about-middle-east-policy/)
+06:48:42	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=547
+06:48:42	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=547 to http://demo.designwall.com/dw-focus/jonbenet-grand-jury-vindicates-case-lead-detective/
+06:48:43	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/jonbenet-grand-jury-vindicates-case-lead-detective/javascript.void(0); (from demo.designwall.com/dw-focus/jonbenet-grand-jury-vindicates-case-lead-detective/)
+06:48:44	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=545
+06:48:44	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=545 to http://demo.designwall.com/dw-focus/do-you-agree-with-decision-to-lift-ban-on-women-in-combat/
+06:48:45	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/do-you-agree-with-decision-to-lift-ban-on-women-in-combat/javascript.void(0); (from demo.designwall.com/dw-focus/do-you-agree-with-decision-to-lift-ban-on-women-in-combat/)
+06:49:54	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=585
+06:49:54	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=585 to http://demo.designwall.com/dw-focus/more-with-dwight-yoakam-in-the-studio/
+06:49:54	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/more-with-dwight-yoakam-in-the-studio/javascript.void(0); (from demo.designwall.com/dw-focus/more-with-dwight-yoakam-in-the-studio/)
+06:49:54	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=587
+06:49:54	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=587 to http://demo.designwall.com/dw-focus/justin-bieber-baby-ft-ludacris/
+06:49:54	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/justin-bieber-baby-ft-ludacris/javascript.void(0); (from demo.designwall.com/dw-focus/justin-bieber-baby-ft-ludacris/)
+06:50:01	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/barbara-walters-in-the-hospital-with-chicken-pox/ (from demo.designwall.com/dw-focus/category/entertainment/tv/)
+06:50:36	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=549
+06:50:36	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=549 to http://demo.designwall.com/dw-focus/michael-phelps-dating-ryan-seacrest-ex-jasmine-waltz/
+06:50:36	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/michael-phelps-dating-ryan-seacrest-ex-jasmine-waltz/javascript.void(0); (from demo.designwall.com/dw-focus/michael-phelps-dating-ryan-seacrest-ex-jasmine-waltz/)
+06:50:43	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=555
+06:50:43	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=555 to http://demo.designwall.com/dw-focus/hollywood-nation-norah-jones-added-to-oscar-lineup/
+06:50:43	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/hollywood-nation-norah-jones-added-to-oscar-lineup/javascript.void(0); (from demo.designwall.com/dw-focus/hollywood-nation-norah-jones-added-to-oscar-lineup/)
+06:51:10	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=579
+06:51:10	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=579 to http://demo.designwall.com/dw-focus/murdoch-apology-over-scarfe-cartoon/
+06:51:10	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/murdoch-apology-over-scarfe-cartoon/javascript.void(0); (from demo.designwall.com/dw-focus/murdoch-apology-over-scarfe-cartoon/)
+06:51:24	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/everything-you-wanted-to-know-about-facebook-groups/ (from demo.designwall.com/dw-focus/category/hi-tech/)
+06:51:54	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=640
+06:51:54	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=640 to http://demo.designwall.com/dw-focus/will-the-new-blackberry-phones-look-like-this/
+06:51:54	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/will-the-new-blackberry-phones-look-like-this/javascript.void(0); (from demo.designwall.com/dw-focus/will-the-new-blackberry-phones-look-like-this/)
+06:51:55	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=630
+06:51:55	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=630 to http://demo.designwall.com/dw-focus/microsoft-launches-new-office-suite/
+06:51:55	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/microsoft-launches-new-office-suite/javascript.void(0); (from demo.designwall.com/dw-focus/microsoft-launches-new-office-suite/)
+06:51:59	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=660
+06:51:59	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=660 to http://demo.designwall.com/dw-focus/apple-no-longer-the-world-most-valuable-company/
+06:51:59	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/apple-no-longer-the-world-most-valuable-company/javascript.void(0); (from demo.designwall.com/dw-focus/apple-no-longer-the-world-most-valuable-company/)
+06:52:00	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=638
+06:52:00	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=638 to http://demo.designwall.com/dw-focus/article-demo-showcase-what-markup-you-can-use-in-your-news-article/
+06:52:00	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/ask-siri-to-buy-your-next-movie-tickets-230x130.jpg (from demo.designwall.com/dw-focus/article-demo-showcase-what-markup-you-can-use-in-your-news-article/)
+06:52:02	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/article-demo-showcase-what-markup-you-can-use-in-your-news-article/javascript.void(0); (from demo.designwall.com/dw-focus/article-demo-showcase-what-markup-you-can-use-in-your-news-article/)
+06:52:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=636
+06:52:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=636 to http://demo.designwall.com/dw-focus/apple-sheds-light-on-chinese-iphone-assemblers/
+06:52:02	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/apple-sheds-light-on-chinese-iphone-assemblers/javascript.void(0); (from demo.designwall.com/dw-focus/apple-sheds-light-on-chinese-iphone-assemblers/)
+06:52:21	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=662
+06:52:21	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=662 to http://demo.designwall.com/dw-focus/facebook-graph-search/
+06:52:21	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/facebook-graph-search/javascript.void(0); (from demo.designwall.com/dw-focus/facebook-graph-search/)
+06:52:36	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/why-tomb-raider-skipped-wii-u-230x119.jpg (from demo.designwall.com/dw-focus/category/game/)
+06:52:53	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=603
+06:52:53	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=603 to http://demo.designwall.com/dw-focus/junction-point-closed-spector-leaving-disney/
+06:52:53	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/junction-point-closed-spector-leaving-disney/javascript.void(0); (from demo.designwall.com/dw-focus/junction-point-closed-spector-leaving-disney/)
+06:52:54	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=623
+06:52:54	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=623 to http://demo.designwall.com/dw-focus/ea-joins-group-opposing-defense-of-marriage-act/
+06:52:54	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/ea-joins-group-opposing-defense-of-marriage-act/javascript.void(0); (from demo.designwall.com/dw-focus/ea-joins-group-opposing-defense-of-marriage-act/)
+06:52:56	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=615
+06:52:56	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=615 to http://demo.designwall.com/dw-focus/chinese-console-ban-may-end-report/
+06:52:56	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/chinese-console-ban-may-end-report/javascript.void(0); (from demo.designwall.com/dw-focus/chinese-console-ban-may-end-report/)
+06:53:00	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/crytek-talks-homefront-2/ (from demo.designwall.com/dw-focus/category/game/people/)
+06:53:05	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=607
+06:53:05	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=607 to http://demo.designwall.com/dw-focus/minecraft-xbox-360-update-8-hopes-to-deliver-40-fixes-this-week/
+06:53:05	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/minecraft-xbox-360-update-8-hopes-to-deliver-40-fixes-this-week/javascript.void(0); (from demo.designwall.com/dw-focus/minecraft-xbox-360-update-8-hopes-to-deliver-40-fixes-this-week/)
+06:53:13	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/world-of-tanks-studio-acquires-f-e-a-r-3-dev-230x119.jpg (from demo.designwall.com/dw-focus/category/game/health/)
+06:53:13	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=609
+06:53:13	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=609 to http://demo.designwall.com/dw-focus/rockstar-finds-the-idea-of-a-sci-fi-gta/
+06:53:13	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/rockstar-finds-the-idea-of-a-sci-fi-gta/javascript.void(0); (from demo.designwall.com/dw-focus/rockstar-finds-the-idea-of-a-sci-fi-gta/)
+06:53:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=599
+06:53:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=599 to http://demo.designwall.com/dw-focus/apple-reveals-800-128gb-ipad/
+06:53:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/apple-reveals-800-128gb-ipad/javascript.void(0); (from demo.designwall.com/dw-focus/apple-reveals-800-128gb-ipad/)
+06:53:27	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/police-barred-from-vermont-gun-range-over-proposed-semi-automatic-rifle-ban/ (from demo.designwall.com/dw-focus/category/politic/)
+06:53:47	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=674
+06:53:47	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=674 to http://demo.designwall.com/dw-focus/obama-caught-in-budget-trap/
+06:53:47	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/obama-caught-in-budget-trap/javascript.void(0); (from demo.designwall.com/dw-focus/obama-caught-in-budget-trap/)
+06:53:48	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=688
+06:53:48	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=688 to http://demo.designwall.com/dw-focus/hillary-handles-hardball/
+06:53:48	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/hillary-handles-hardball/javascript.void(0); (from demo.designwall.com/dw-focus/hillary-handles-hardball/)
+06:53:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=686
+06:53:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=686 to http://demo.designwall.com/dw-focus/bloomberg-tops-1b-in-gifts-to-alma-mater-johns-hopkins-university/
+06:53:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/bloomberg-tops-1b-in-gifts-to-alma-mater-johns-hopkins-university/javascript.void(0); (from demo.designwall.com/dw-focus/bloomberg-tops-1b-in-gifts-to-alma-mater-johns-hopkins-university/)
+06:53:52	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=680
+06:53:52	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=680 to http://demo.designwall.com/dw-focus/barack-obamas-complete-2013-inauguration-speech/
+06:53:52	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fbarack-obamas-complete-2013-inauguration-speech%2F (from demo.designwall.com/dw-focus/barack-obamas-complete-2013-inauguration-speech/)
+06:53:52	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/barack-obamas-complete-2013-inauguration-speech/javascript.void(0); (from demo.designwall.com/dw-focus/barack-obamas-complete-2013-inauguration-speech/)
+06:53:52	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/us-planning-for-new-drone-base-in-northwest-africa-officials-say.jpg (from demo.designwall.com/dw-focus/us-planning-for-new-drone-base-in-northwest-africa-officials-say/)
+06:53:53	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=678
+06:53:53	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=678 to http://demo.designwall.com/dw-focus/us-planning-for-new-drone-base-in-northwest-africa-officials-say/
+06:53:53	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/us-planning-for-new-drone-base-in-northwest-africa-officials-say/javascript.void(0); (from demo.designwall.com/dw-focus/us-planning-for-new-drone-base-in-northwest-africa-officials-say/)
+06:54:29	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=728
+06:54:29	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=728 to http://demo.designwall.com/dw-focus/wiltjer-pushes-wildcats-past-rebels/
+06:54:29	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/wiltjer-pushes-wildcats-past-rebels/javascript.void(0); (from demo.designwall.com/dw-focus/wiltjer-pushes-wildcats-past-rebels/)
+06:54:40	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/the-man-who-sold-the-world/ (from demo.designwall.com/dw-focus/wiltjer-pushes-wildcats-past-rebels/)
+06:54:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=744
+06:54:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=744 to http://demo.designwall.com/dw-focus/cristiano-ronaldo-101-amazing-goals-hd/
+06:54:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/cristiano-ronaldo-101-amazing-goals-hd/javascript.void(0); (from demo.designwall.com/dw-focus/cristiano-ronaldo-101-amazing-goals-hd/)
+06:54:45	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/?p=710 (from demo.designwall.com/dw-focus/canadiens-edge-jets-4-3-for-4th-straight-win/)
+06:54:46	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fcanadiens-edge-jets-4-3-for-4th-straight-win%2F (from demo.designwall.com/dw-focus/canadiens-edge-jets-4-3-for-4th-straight-win/)
+06:54:47	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/canadiens-edge-jets-4-3-for-4th-straight-win/javascript.void(0); (from demo.designwall.com/dw-focus/canadiens-edge-jets-4-3-for-4th-straight-win/)
+06:54:48	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=714
+06:54:48	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=714 to http://demo.designwall.com/dw-focus/bruins-top-devils-2-1-on-marchand-shootout-goal/
+06:54:48	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/bruins-top-devils-2-1-on-marchand-shootout-goal/javascript.void(0); (from demo.designwall.com/dw-focus/bruins-top-devils-2-1-on-marchand-shootout-goal/)
+06:54:48	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=726
+06:54:48	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=726 to http://demo.designwall.com/dw-focus/leafs-down-sabres-in-ot/
+06:54:48	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/leafs-down-sabres-in-ot/javascript.void(0); (from demo.designwall.com/dw-focus/leafs-down-sabres-in-ot/)
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=718
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=718 to http://demo.designwall.com/dw-focus/bouchard-wild-edge-blue-jackets/
+06:55:02	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/bouchard-wild-edge-blue-jackets/javascript.void(0); (from demo.designwall.com/dw-focus/bouchard-wild-edge-blue-jackets/)
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1166
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1166 to http://demo.designwall.com/dw-focus/right-sidebar/
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1163
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1163 to http://demo.designwall.com/dw-focus/left-sidebar/
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1160
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1160 to http://demo.designwall.com/dw-focus/icon-font/
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1157
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1157 to http://demo.designwall.com/dw-focus/grid/
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1154
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1154 to http://demo.designwall.com/dw-focus/forms/
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1150
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1150 to http://demo.designwall.com/dw-focus/buttons/
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1147
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1147 to http://demo.designwall.com/dw-focus/block-quotes/
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1144
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1144 to http://demo.designwall.com/dw-focus/alert/
+06:55:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1143
+06:55:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1143 to http://demo.designwall.com/dw-focus/dwqa-questions/
+06:55:59	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/dwqa-questions/?paged=2
+06:55:59	Warning: 	File has moved from demo.designwall.com/dw-focus/dwqa-questions/?paged=2 to http://demo.designwall.com/dw-focus/dwqa-questions/page/2/
+06:55:59	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1022
+06:55:59	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1022 to http://demo.designwall.com/dw-focus/dwqa-ask-question/
+06:56:02	Warning: 	Found for demo.designwall.com/dw-focus/wp-admin/
+06:56:02	Warning: 	File has moved from demo.designwall.com/dw-focus/wp-admin/ to http://demo.designwall.com/dw-focus/wp-admin/profile.php
+06:56:04	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=121
+06:56:04	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=121 to http://demo.designwall.com/dw-focus/a-london-workshop-is-making-tech-more-human-with-bespoke-devices-2/
+06:57:22	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/a-london-workshop-is-making-tech-more-human-with-bespoke-devices-2/javascript.void(0); (from demo.designwall.com/dw-focus/a-london-workshop-is-making-tech-more-human-with-bespoke-devices-2/)
+06:57:45	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/The-New-Retirement-230x119.png (from demo.designwall.com/dw-focus/category/blog/)
+06:57:45	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/Infographic-230x119.png (from demo.designwall.com/dw-focus/category/blog/)
+06:57:45	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=567
+06:57:45	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=567 to http://demo.designwall.com/dw-focus/kim-kardashian-blasts-report-her-mother-kris-jenner-beat-her/
+06:57:45	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fkim-kardashian-blasts-report-her-mother-kris-jenner-beat-her%2F&format=xml (from demo.designwall.com/dw-focus/kim-kardashian-blasts-report-her-mother-kris-jenner-beat-her/)
+06:57:47	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/kim-kardashian-blasts-report-her-mother-kris-jenner-beat-her/javascript.void(0); (from demo.designwall.com/dw-focus/kim-kardashian-blasts-report-her-mother-kris-jenner-beat-her/)
+06:58:08	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/fonts/glyphicons-halflings-regular.woff (from demo.designwall.com/dw-focus/wp-content/themes/dw-focus-1-new/assets/css/dw-focus.min.css?ver=1.3.3)
+06:58:51	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/author/stephine-leslie/feed/ (from demo.designwall.com/dw-focus/author/stephine-leslie/)
+06:58:58	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/author/shanelle-simas/feed/ (from demo.designwall.com/dw-focus/author/shanelle-simas/)
+06:59:10	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=527
+06:59:10	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=527 to http://demo.designwall.com/dw-focus/60-minutes-obama-clinton-interview-heavy-on-laughs-light-on-substance/
+06:59:10	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/60-minutes-obama-clinton-interview-heavy-on-laughs-light-on-substance/javascript.void(0); (from demo.designwall.com/dw-focus/60-minutes-obama-clinton-interview-heavy-on-laughs-light-on-substance/)
+06:59:18	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=541
+06:59:18	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=541 to http://demo.designwall.com/dw-focus/march-for-life-shows-media-march-in-lockstep-with-pro-abortion-groups/
+06:59:18	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/march-for-life-shows-media-march-in-lockstep-with-pro-abortion-groups/javascript.void(0); (from demo.designwall.com/dw-focus/march-for-life-shows-media-march-in-lockstep-with-pro-abortion-groups/)
+06:59:18	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/tag/business-analyst/ (from demo.designwall.com/dw-focus/march-for-life-shows-media-march-in-lockstep-with-pro-abortion-groups/)
+06:59:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=525
+06:59:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=525 to http://demo.designwall.com/dw-focus/state-department-says-clinton-wearing-new-glasses-for-health-reasons/
+06:59:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/state-department-says-clinton-wearing-new-glasses-for-health-reasons/javascript.void(0); (from demo.designwall.com/dw-focus/state-department-says-clinton-wearing-new-glasses-for-health-reasons/)
+06:59:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=513
+06:59:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=513 to http://demo.designwall.com/dw-focus/obama-practices-the-divisive-politics-he-eschews-in-inaugural-speech/
+06:59:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/obama-practices-the-divisive-politics-he-eschews-in-inaugural-speech/javascript.void(0); (from demo.designwall.com/dw-focus/obama-practices-the-divisive-politics-he-eschews-in-inaugural-speech/)
+06:59:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=515
+06:59:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=515 to http://demo.designwall.com/dw-focus/yes-president-obama-the-constitution-applies-to-you-too/
+06:59:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/yes-president-obama-the-constitution-applies-to-you-too/javascript.void(0); (from demo.designwall.com/dw-focus/yes-president-obama-the-constitution-applies-to-you-too/)
+06:59:23	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=529
+06:59:23	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=529 to http://demo.designwall.com/dw-focus/shopping-around-for-a-better-life/
+06:59:23	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/shopping-around-for-a-better-life/javascript.void(0); (from demo.designwall.com/dw-focus/shopping-around-for-a-better-life/)
+06:59:23	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=539
+06:59:23	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=539 to http://demo.designwall.com/dw-focus/turning-on-capital-spigots-in-the-water-world/
+06:59:23	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/turning-on-capital-spigots-in-the-water-world/javascript.void(0); (from demo.designwall.com/dw-focus/turning-on-capital-spigots-in-the-water-world/)
+06:59:25	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/web-of-environmental-rules-threatens-gulf-coast-businesses-with-jail-steep-fines.jpg (from demo.designwall.com/dw-focus/author/riva-moser/)
+06:59:25	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=509
+06:59:25	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=509 to http://demo.designwall.com/dw-focus/why-must-49-million-american-students-still-be-denied-school-choice/
+06:59:25	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/why-must-49-million-american-students-still-be-denied-school-choice/javascript.void(0); (from demo.designwall.com/dw-focus/why-must-49-million-american-students-still-be-denied-school-choice/)
+06:59:26	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=535
+06:59:26	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=535 to http://demo.designwall.com/dw-focus/time-to-get-tough-with-north-korea-and-iran-as-imminent-nuclear-bomb-test-looms/
+06:59:26	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/time-to-get-tough-with-north-korea-and-iran-as-imminent-nuclear-bomb-test-looms/javascript.void(0); (from demo.designwall.com/dw-focus/time-to-get-tough-with-north-korea-and-iran-as-imminent-nuclear-bomb-test-looms/)
+06:59:26	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=654
+06:59:26	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=654 to http://demo.designwall.com/dw-focus/ask-siri-to-buy-your-next-movie-tickets/
+06:59:26	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/ask-siri-to-buy-your-next-movie-tickets/javascript.void(0); (from demo.designwall.com/dw-focus/ask-siri-to-buy-your-next-movie-tickets/)
+06:59:27	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=511
+06:59:27	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=511 to http://demo.designwall.com/dw-focus/the-coming-collapse-of-the-abortion-lobby/
+06:59:27	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/the-coming-collapse-of-the-abortion-lobby/javascript.void(0); (from demo.designwall.com/dw-focus/the-coming-collapse-of-the-abortion-lobby/)
+06:59:27	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=519
+06:59:27	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=519 to http://demo.designwall.com/dw-focus/how-to-be-a-real-life-action-hero/
+06:59:27	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/how-to-be-a-real-life-action-hero/javascript.void(0); (from demo.designwall.com/dw-focus/how-to-be-a-real-life-action-hero/)
+06:59:27	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=523
+06:59:27	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=523 to http://demo.designwall.com/dw-focus/on-cbs-john-dickerson-shamelessly-defends-his-destroy-the-gop-column/
+06:59:27	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fon-cbs-john-dickerson-shamelessly-defends-his-destroy-the-gop-column%2F&format=xml (from demo.designwall.com/dw-focus/on-cbs-john-dickerson-shamelessly-defends-his-destroy-the-gop-column/)
+06:59:29	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/on-cbs-john-dickerson-shamelessly-defends-his-destroy-the-gop-column/javascript.void(0); (from demo.designwall.com/dw-focus/on-cbs-john-dickerson-shamelessly-defends-his-destroy-the-gop-column/)
+06:59:38	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/should-you-be-insuring-your-smartphones-and-tablets.jpg (from demo.designwall.com/dw-focus/author/dagny-lage/)
+06:59:39	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=537
+06:59:39	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=537 to http://demo.designwall.com/dw-focus/stocks-could-hit-new-highs-amid-bull-run/
+06:59:39	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fstocks-could-hit-new-highs-amid-bull-run%2F (from demo.designwall.com/dw-focus/stocks-could-hit-new-highs-amid-bull-run/)
+06:59:41	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fstocks-could-hit-new-highs-amid-bull-run%2F&format=xml (from demo.designwall.com/dw-focus/stocks-could-hit-new-highs-amid-bull-run/)
+06:59:42	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/stocks-could-hit-new-highs-amid-bull-run/javascript.void(0); (from demo.designwall.com/dw-focus/stocks-could-hit-new-highs-amid-bull-run/)
+06:59:47	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/jennings-leads-bucks-in-rout-of-pistons.jpg (from demo.designwall.com/dw-focus/author/sherlyn-woodring/)
+06:59:54	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/obama-asks-congress-for-32m-to-train-african-troops-in-mali.jpg (from demo.designwall.com/dw-focus/author/sherlyn-woodring/)
+06:59:54	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=573
+06:59:54	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=573 to http://demo.designwall.com/dw-focus/miley-cyrus-and-liam-hemsworth-already-married/
+06:59:54	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/miley-cyrus-and-liam-hemsworth-already-married/javascript.void(0); (from demo.designwall.com/dw-focus/miley-cyrus-and-liam-hemsworth-already-married/)
+06:59:59	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=561
+06:59:59	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=561 to http://demo.designwall.com/dw-focus/lindsay-lohan-enters-not-guilty-plea-in-lying-to-cops-case/
+06:59:59	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/lindsay-lohan-enters-not-guilty-plea-in-lying-to-cops-case/javascript.void(0); (from demo.designwall.com/dw-focus/lindsay-lohan-enters-not-guilty-plea-in-lying-to-cops-case/)
+07:00:04	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=577
+07:00:04	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=577 to http://demo.designwall.com/dw-focus/hansel-gretel-debuts-at-no-1-at-the-box-office/
+07:00:04	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/hansel-gretel-debuts-at-no-1-at-the-box-office/javascript.void(0); (from demo.designwall.com/dw-focus/hansel-gretel-debuts-at-no-1-at-the-box-office/)
+07:00:04	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=563
+07:00:04	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=563 to http://demo.designwall.com/dw-focus/go-daddy-super-bowl-ad-trades-sexy-girls-for-humor/
+07:00:04	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/go-daddy-super-bowl-ad-trades-sexy-girls-for-humor/javascript.void(0); (from demo.designwall.com/dw-focus/go-daddy-super-bowl-ad-trades-sexy-girls-for-humor/)
+07:00:04	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=583
+07:00:04	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=583 to http://demo.designwall.com/dw-focus/chris-brown-may-face-assault-charges-over-brawl-involving-frank-ocean/
+07:00:04	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/chris-brown-may-face-assault-charges-over-brawl-involving-frank-ocean/javascript.void(0); (from demo.designwall.com/dw-focus/chris-brown-may-face-assault-charges-over-brawl-involving-frank-ocean/)
+07:00:09	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=551
+07:00:09	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=551 to http://demo.designwall.com/dw-focus/worst-dressed-actress-at-sag-awards/
+07:00:09	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/worst-dressed-actress-at-sag-awards/javascript.void(0); (from demo.designwall.com/dw-focus/worst-dressed-actress-at-sag-awards/)
+07:00:09	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/obama-birth-control-mandate-loosens-lawsuits/ (from demo.designwall.com/dw-focus/worst-dressed-actress-at-sag-awards/)
+07:00:09	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=559
+07:00:09	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=559 to http://demo.designwall.com/dw-focus/hot-links-kris-jenner-to-host-new-daytime-talk-show/
+07:00:09	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/hot-links-kris-jenner-to-host-new-daytime-talk-show/javascript.void(0); (from demo.designwall.com/dw-focus/hot-links-kris-jenner-to-host-new-daytime-talk-show/)
+07:00:09	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=575
+07:00:09	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=575 to http://demo.designwall.com/dw-focus/report-lohan-was-drinking-and-driving/
+07:00:09	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Freport-lohan-was-drinking-and-driving%2F (from demo.designwall.com/dw-focus/report-lohan-was-drinking-and-driving/)
+07:00:09	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/report-lohan-was-drinking-and-driving/javascript.void(0); (from demo.designwall.com/dw-focus/report-lohan-was-drinking-and-driving/)
+07:00:09	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=619
+07:00:09	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=619 to http://demo.designwall.com/dw-focus/bioware-cofounder-talks-leaving-mass-effect-for-beer/
+07:00:09	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/bioware-cofounder-talks-leaving-mass-effect-for-beer/javascript.void(0); (from demo.designwall.com/dw-focus/bioware-cofounder-talks-leaving-mass-effect-for-beer/)
+07:00:09	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=736
+07:00:09	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=736 to http://demo.designwall.com/dw-focus/bryant-helps-lakers-to-3rd-straight-win/
+07:00:09	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/bryant-helps-lakers-to-3rd-straight-win/javascript.void(0); (from demo.designwall.com/dw-focus/bryant-helps-lakers-to-3rd-straight-win/)
+07:00:10	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=553
+07:00:10	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=553 to http://demo.designwall.com/dw-focus/dick-van-dyke-honored-for-lifetime-achievement-at-sag-awards/
+07:00:10	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/dick-van-dyke-honored-for-lifetime-achievement-at-sag-awards/javascript.void(0); (from demo.designwall.com/dw-focus/dick-van-dyke-honored-for-lifetime-achievement-at-sag-awards/)
+07:00:10	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=581
+07:00:10	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=581 to http://demo.designwall.com/dw-focus/police-shots-fired-rapper-rick-ross-crashes-rolls/
+07:00:10	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/police-shots-fired-rapper-rick-ross-crashes-rolls/javascript.void(0); (from demo.designwall.com/dw-focus/police-shots-fired-rapper-rick-ross-crashes-rolls/)
+07:00:10	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=557
+07:00:10	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=557 to http://demo.designwall.com/dw-focus/christian-reality-show-about-women-recovering-from-abortion/
+07:00:10	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/christian-reality-show-about-women-recovering-from-abortion/javascript.void(0); (from demo.designwall.com/dw-focus/christian-reality-show-about-women-recovering-from-abortion/)
+07:00:15	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=571
+07:00:15	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=571 to http://demo.designwall.com/dw-focus/magazines-airbrushing-to-make-skinny-models-look-fatter/
+07:00:15	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/magazines-airbrushing-to-make-skinny-models-look-fatter/javascript.void(0); (from demo.designwall.com/dw-focus/magazines-airbrushing-to-make-skinny-models-look-fatter/)
+07:00:15	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/mancini-may-not-replace-balotelli/ (from demo.designwall.com/dw-focus/magazines-airbrushing-to-make-skinny-models-look-fatter/)
+07:00:15	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=704
+07:00:15	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=704 to http://demo.designwall.com/dw-focus/emboldened-obama-sets-stage-for-nasty-fights-ahead/
+07:00:15	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/emboldened-obama-sets-stage-for-nasty-fights-ahead/javascript.void(0); (from demo.designwall.com/dw-focus/emboldened-obama-sets-stage-for-nasty-fights-ahead/)
+07:00:17	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=676
+07:00:17	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=676 to http://demo.designwall.com/dw-focus/web-of-environmental-rules-threatens-gulf-coast-businesses-with-jail-steep-fines/
+07:00:17	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/web-of-environmental-rules-threatens-gulf-coast-businesses-with-jail-steep-fines/javascript.void(0); (from demo.designwall.com/dw-focus/web-of-environmental-rules-threatens-gulf-coast-businesses-with-jail-steep-fines/)
+07:00:18	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=634
+07:00:18	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=634 to http://demo.designwall.com/dw-focus/social-media-masquerade/
+07:00:18	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/social-media-masquerade/javascript.void(0); (from demo.designwall.com/dw-focus/social-media-masquerade/)
+07:00:23	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=648
+07:00:23	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=648 to http://demo.designwall.com/dw-focus/should-you-be-insuring-your-smartphones-and-tablets/
+07:00:24	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/should-you-be-insuring-your-smartphones-and-tablets/javascript.void(0); (from demo.designwall.com/dw-focus/should-you-be-insuring-your-smartphones-and-tablets/)
+07:00:24	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=650
+07:00:24	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=650 to http://demo.designwall.com/dw-focus/java-how-to-fix-your-biggest-internet-security-risk/
+07:00:24	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/java-how-to-fix-your-biggest-internet-security-risk/javascript.void(0); (from demo.designwall.com/dw-focus/java-how-to-fix-your-biggest-internet-security-risk/)
+07:00:24	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=628
+07:00:24	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=628 to http://demo.designwall.com/dw-focus/windows-8-innovative-surface-tablet-fail-to-help-microsoft/
+07:00:24	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/windows-8-innovative-surface-tablet-fail-to-help-microsoft/javascript.void(0); (from demo.designwall.com/dw-focus/windows-8-innovative-surface-tablet-fail-to-help-microsoft/)
+07:00:24	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=656
+07:00:24	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=656 to http://demo.designwall.com/dw-focus/nearly-1-in-10-ray-lewis-social-comments-mention-murder/
+07:00:24	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/nearly-1-in-10-ray-lewis-social-comments-mention-murder/javascript.void(0); (from demo.designwall.com/dw-focus/nearly-1-in-10-ray-lewis-social-comments-mention-murder/)
+07:00:24	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=664
+07:00:24	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=664 to http://demo.designwall.com/dw-focus/what-stories-are-you-clicking-on/
+07:00:24	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/what-stories-are-you-clicking-on/javascript.void(0); (from demo.designwall.com/dw-focus/what-stories-are-you-clicking-on/)
+07:00:24	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=644
+07:00:24	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=644 to http://demo.designwall.com/dw-focus/is-facebook-infecting-your-computer/
+07:00:24	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/is-facebook-infecting-your-computer/javascript.void(0); (from demo.designwall.com/dw-focus/is-facebook-infecting-your-computer/)
+07:00:27	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=666
+07:00:27	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=666 to http://demo.designwall.com/dw-focus/sync-your-golf-swing-to-your-mobile-phone/
+07:00:27	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fsync-your-golf-swing-to-your-mobile-phone%2F&format=xml (from demo.designwall.com/dw-focus/sync-your-golf-swing-to-your-mobile-phone/)
+07:00:27	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/sync-your-golf-swing-to-your-mobile-phone/javascript.void(0); (from demo.designwall.com/dw-focus/sync-your-golf-swing-to-your-mobile-phone/)
+07:00:27	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/microsoft-launches-new-office-suite/javascript.void(0); (from demo.designwall.com/dw-focus/microsoft-launches-new-office-suite/)
+07:00:27	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=642
+07:00:27	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=642 to http://demo.designwall.com/dw-focus/best-gadgets-for-your-super-bowl-party/
+07:00:27	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/best-gadgets-for-your-super-bowl-party/javascript.void(0); (from demo.designwall.com/dw-focus/best-gadgets-for-your-super-bowl-party/)
+07:00:27	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=646
+07:00:27	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=646 to http://demo.designwall.com/dw-focus/us-marines-to-get-new-perms/
+07:00:27	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/us-marines-to-get-new-perms/javascript.void(0); (from demo.designwall.com/dw-focus/us-marines-to-get-new-perms/)
+07:00:28	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=658
+07:00:28	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=658 to http://demo.designwall.com/dw-focus/hottest-gadgets-this-week-i-bet-you-want-this/
+07:00:28	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/hottest-gadgets-this-week-i-bet-you-want-this/javascript.void(0); (from demo.designwall.com/dw-focus/hottest-gadgets-this-week-i-bet-you-want-this/)
+07:00:28	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=632
+07:00:28	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=632 to http://demo.designwall.com/dw-focus/city-turns-internet-speeds-into-jobs/
+07:00:28	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/city-turns-internet-speeds-into-jobs/javascript.void(0); (from demo.designwall.com/dw-focus/city-turns-internet-speeds-into-jobs/)
+07:00:32	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=595
+07:00:32	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=595 to http://demo.designwall.com/dw-focus/epic-mickey-studio-in-trouble/
+07:00:32	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/epic-mickey-studio-in-trouble/javascript.void(0); (from demo.designwall.com/dw-focus/epic-mickey-studio-in-trouble/)
+07:00:32	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=601
+07:00:32	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=601 to http://demo.designwall.com/dw-focus/why-tomb-raider-skipped-wii-u/
+07:00:32	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/why-tomb-raider-skipped-wii-u/javascript.void(0); (from demo.designwall.com/dw-focus/why-tomb-raider-skipped-wii-u/)
+07:00:32	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=613
+07:00:32	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=613 to http://demo.designwall.com/dw-focus/industry-has-profited-at-expense-of-children-says-ca-senator/
+07:00:32	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/industry-has-profited-at-expense-of-children-says-ca-senator/javascript.void(0); (from demo.designwall.com/dw-focus/industry-has-profited-at-expense-of-children-says-ca-senator/)
+07:00:32	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=625
+07:00:32	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=625 to http://demo.designwall.com/dw-focus/mass-effect-3-dlc-teased/
+07:00:32	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/mass-effect-3-dlc-teased/javascript.void(0); (from demo.designwall.com/dw-focus/mass-effect-3-dlc-teased/)
+07:00:32	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=589
+07:00:32	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=589 to http://demo.designwall.com/dw-focus/diablo-3-was-updated-today/
+07:00:32	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/diablo-3-was-updated-today/javascript.void(0); (from demo.designwall.com/dw-focus/diablo-3-was-updated-today/)
+07:00:32	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=593
+07:00:32	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=593 to http://demo.designwall.com/dw-focus/mlg-produced-game-inevitable/
+07:00:32	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/mlg-produced-game-inevitable/javascript.void(0); (from demo.designwall.com/dw-focus/mlg-produced-game-inevitable/)
+07:00:35	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=611
+07:00:35	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=611 to http://demo.designwall.com/dw-focus/crytek-opens-american-studio/
+07:00:35	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/crytek-opens-american-studio/javascript.void(0); (from demo.designwall.com/dw-focus/crytek-opens-american-studio/)
+07:00:35	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=621
+07:00:35	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=621 to http://demo.designwall.com/dw-focus/world-of-tanks-studio-acquires-f-e-a-r-3-dev/
+07:00:35	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/world-of-tanks-studio-acquires-f-e-a-r-3-dev/javascript.void(0); (from demo.designwall.com/dw-focus/world-of-tanks-studio-acquires-f-e-a-r-3-dev/)
+07:00:35	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/call-of-duty-voice-actors-visiting-troops/feed/ (from demo.designwall.com/dw-focus/call-of-duty-voice-actors-visiting-troops/)
+07:00:35	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=597
+07:00:35	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=597 to http://demo.designwall.com/dw-focus/call-of-duty-voice-actors-visiting-troops/
+07:00:35	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/call-of-duty-voice-actors-visiting-troops/javascript.void(0); (from demo.designwall.com/dw-focus/call-of-duty-voice-actors-visiting-troops/)
+07:00:35	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=702
+07:00:35	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=702 to http://demo.designwall.com/dw-focus/thousands-march-for-gun-control-in-washington/
+07:00:35	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/thousands-march-for-gun-control-in-washington/javascript.void(0); (from demo.designwall.com/dw-focus/thousands-march-for-gun-control-in-washington/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=694
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=694 to http://demo.designwall.com/dw-focus/obama-deploys-kids-in-push-for-gun-ban/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/obama-deploys-kids-in-push-for-gun-ban/javascript.void(0); (from demo.designwall.com/dw-focus/obama-deploys-kids-in-push-for-gun-ban/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=700
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=700 to http://demo.designwall.com/dw-focus/clinton-pushes-for-more-broadcasting-of-pro-us-message-raising-questions-about-agency-mission/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/clinton-pushes-for-more-broadcasting-of-pro-us-message-raising-questions-about-agency-mission/javascript.void(0); (from demo.designwall.com/dw-focus/clinton-pushes-for-more-broadcasting-of-pro-us-message-raising-questions-about-agency-mission/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=692
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=692 to http://demo.designwall.com/dw-focus/obama-wades-back-into-immigration-debate-as-senators-pitch-new-blueprint/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/obama-wades-back-into-immigration-debate-as-senators-pitch-new-blueprint/javascript.void(0); (from demo.designwall.com/dw-focus/obama-wades-back-into-immigration-debate-as-senators-pitch-new-blueprint/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=682
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=682 to http://demo.designwall.com/dw-focus/former-nyc-mayor-koch-released-from-hospital/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/former-nyc-mayor-koch-released-from-hospital/javascript.void(0); (from demo.designwall.com/dw-focus/former-nyc-mayor-koch-released-from-hospital/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=668
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=668 to http://demo.designwall.com/dw-focus/cost-of-giving-illegal-immigrants-path-to-citizenship-could-outweigh-fiscal-benefits/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/cost-of-giving-illegal-immigrants-path-to-citizenship-could-outweigh-fiscal-benefits/javascript.void(0); (from demo.designwall.com/dw-focus/cost-of-giving-illegal-immigrants-path-to-citizenship-could-outweigh-fiscal-benefits/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=742
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=742 to http://demo.designwall.com/dw-focus/bolts-continue-strong-start-with-win-over-slumping-panthers/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/bolts-continue-strong-start-with-win-over-slumping-panthers/javascript.void(0); (from demo.designwall.com/dw-focus/bolts-continue-strong-start-with-win-over-slumping-panthers/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=716
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=716 to http://demo.designwall.com/dw-focus/national-basketball-association-game-capsules/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/national-basketball-association-game-capsules/javascript.void(0); (from demo.designwall.com/dw-focus/national-basketball-association-game-capsules/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=740
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=740 to http://demo.designwall.com/dw-focus/sharks-beat-ducks-3-2-in-shootout-to-stay-unbeaten/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/sharks-beat-ducks-3-2-in-shootout-to-stay-unbeaten/javascript.void(0); (from demo.designwall.com/dw-focus/sharks-beat-ducks-3-2-in-shootout-to-stay-unbeaten/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=724
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=724 to http://demo.designwall.com/dw-focus/top-25-college-basketball-game-capsules/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/top-25-college-basketball-game-capsules/javascript.void(0); (from demo.designwall.com/dw-focus/top-25-college-basketball-game-capsules/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=720
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=720 to http://demo.designwall.com/dw-focus/filppula-leads-red-wings-past-stars/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/filppula-leads-red-wings-past-stars/javascript.void(0); (from demo.designwall.com/dw-focus/filppula-leads-red-wings-past-stars/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=732
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=732 to http://demo.designwall.com/dw-focus/jennings-leads-bucks-in-rout-of-pistons/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/jennings-leads-bucks-in-rout-of-pistons/javascript.void(0); (from demo.designwall.com/dw-focus/jennings-leads-bucks-in-rout-of-pistons/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=746
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=746 to http://demo.designwall.com/dw-focus/arop-indiana-state-take-down-shockers/
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/arop-indiana-state-take-down-shockers/javascript.void(0); (from demo.designwall.com/dw-focus/arop-indiana-state-take-down-shockers/)
+07:00:40	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=118
+07:00:40	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=118 to http://demo.designwall.com/dw-focus/is-this-the-dawning-of-the-age-of-the-co-op-2/
+07:00:40	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fis-this-the-dawning-of-the-age-of-the-co-op-2%2F (from demo.designwall.com/dw-focus/is-this-the-dawning-of-the-age-of-the-co-op-2/)
+07:00:40	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/is-this-the-dawning-of-the-age-of-the-co-op-2/javascript.void(0); (from demo.designwall.com/dw-focus/is-this-the-dawning-of-the-age-of-the-co-op-2/)
+07:00:44	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=710
+07:00:44	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=710 to http://demo.designwall.com/dw-focus/canadiens-edge-jets-4-3-for-4th-straight-win/
+07:00:44	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=112
+07:00:44	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=112 to http://demo.designwall.com/dw-focus/infographic-how-do-juveniles-end-up-in-the-adult-prison-system/
+07:00:44	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/infographic-how-do-juveniles-end-up-in-the-adult-prison-system/javascript.void(0); (from demo.designwall.com/dw-focus/infographic-how-do-juveniles-end-up-in-the-adult-prison-system/)
+07:00:45	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=730
+07:00:45	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=730 to http://demo.designwall.com/dw-focus/no-23-minnesota-williams-topple-nebraska/
+07:00:45	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/no-23-minnesota-williams-topple-nebraska/javascript.void(0); (from demo.designwall.com/dw-focus/no-23-minnesota-williams-topple-nebraska/)
+07:00:45	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/dwqa-questions/?paged=2&filter=all
+07:00:45	Warning: 	File has moved from demo.designwall.com/dw-focus/dwqa-questions/?paged=2&filter=all to http://demo.designwall.com/dw-focus/dwqa-questions/page/2/?filter=all
+07:01:11	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=26295
+07:01:11	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=26295 to http://demo.designwall.com/dw-focus/questions/test-questions/
+07:01:15	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1053
+07:01:15	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1053 to http://demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/
+07:01:37	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/questions/category/questions/?paged=2
+07:01:37	Warning: 	File has moved from demo.designwall.com/dw-focus/questions/category/questions/?paged=2 to http://demo.designwall.com/dw-focus/questions/category/questions/page/2/
+07:01:37	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1054
+07:01:37	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1054 to http://demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/
+07:01:47	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1009
+07:01:47	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1009 to http://demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/
+07:01:52	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1012
+07:01:52	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1012 to http://demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/
+07:01:57	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1041
+07:01:57	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1041 to http://demo.designwall.com/dw-focus/questions/how-to-install-theme-on-the-godaddy-host/
+07:02:00	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1006
+07:02:00	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1006 to http://demo.designwall.com/dw-focus/questions/wordpress-multisite-questions-about-select-all-posts-from-all-network-sites/
+07:02:03	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1018
+07:02:03	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1018 to http://demo.designwall.com/dw-focus/questions/custom-taxonomy-leads-to-404-page-permalink-structure-flushed/
+07:02:03	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1011
+07:02:03	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1011 to http://demo.designwall.com/dw-focus/questions/contact-form-7-save-user-input/
+07:02:03	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1013
+07:02:03	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1013 to http://demo.designwall.com/dw-focus/questions/wordpress-site-seems-convinced-that-its-still-at-its-old-url/
+07:02:07	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=336
+07:02:07	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=336 to http://demo.designwall.com/dw-focus/umbrella-beach/
+07:02:07	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/umbrella-beach/javascript.void(0); (from demo.designwall.com/dw-focus/umbrella-beach/)
+07:02:07	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=706
+07:02:07	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=706 to http://demo.designwall.com/dw-focus/nobody-move/
+07:02:07	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/nobody-move/javascript.void(0); (from demo.designwall.com/dw-focus/nobody-move/)
+07:02:07	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=115
+07:02:07	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=115 to http://demo.designwall.com/dw-focus/the-new-retirement-making-a-difference/
+07:02:07	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/the-new-retirement-making-a-difference/javascript.void(0); (from demo.designwall.com/dw-focus/the-new-retirement-making-a-difference/)
+07:02:07	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=330
+07:02:07	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=330 to http://demo.designwall.com/dw-focus/london-demystify-the-guts-of-personal-technology/
+07:02:07	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/London-Demystify-The-Guts-of-Personal-Technology-640x332.png (from demo.designwall.com/dw-focus/london-demystify-the-guts-of-personal-technology/)
+07:02:59	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/london-demystify-the-guts-of-personal-technology/javascript.void(0); (from demo.designwall.com/dw-focus/london-demystify-the-guts-of-personal-technology/)
+07:02:59	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=164
+07:02:59	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=164 to http://demo.designwall.com/dw-focus/secret-amish-mafia-carry-guns-drive-cadillacs/
+07:02:59	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/secret-amish-mafia-carry-guns-drive-cadillacs/javascript.void(0); (from demo.designwall.com/dw-focus/secret-amish-mafia-carry-guns-drive-cadillacs/)
+07:02:59	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=627
+07:02:59	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=627 to http://demo.designwall.com/dw-focus/counter-strike-global-offensive-trailer/
+07:02:59	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/counter-strike-global-offensive-trailer/javascript.void(0); (from demo.designwall.com/dw-focus/counter-strike-global-offensive-trailer/)
+07:03:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=738
+07:03:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=738 to http://demo.designwall.com/dw-focus/national-hockey-league-game-capsules/
+07:03:02	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/national-hockey-league-game-capsules/javascript.void(0); (from demo.designwall.com/dw-focus/national-hockey-league-game-capsules/)
+07:03:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=684
+07:03:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=684 to http://demo.designwall.com/dw-focus/christie-remains-independent-and-popular-but-will-that-strategy-work-for-2016/
+07:03:02	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/christie-remains-independent-and-popular-but-will-that-strategy-work-for-2016/javascript.void(0); (from demo.designwall.com/dw-focus/christie-remains-independent-and-popular-but-will-that-strategy-work-for-2016/)
+07:03:02	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=591
+07:03:02	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=591 to http://demo.designwall.com/dw-focus/soul-sacrifice-out-april-30/
+07:03:02	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/soul-sacrifice-out-april-30/javascript.void(0); (from demo.designwall.com/dw-focus/soul-sacrifice-out-april-30/)
+07:03:03	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=531
+07:03:03	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=531 to http://demo.designwall.com/dw-focus/guns-and-the-president/
+07:03:03	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/guns-and-the-president/javascript.void(0); (from demo.designwall.com/dw-focus/guns-and-the-president/)
+07:03:03	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=712
+07:03:03	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=712 to http://demo.designwall.com/dw-focus/sharks-rally-late-stay-perfect-with-so-win/
+07:03:03	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/sharks-rally-late-stay-perfect-with-so-win/javascript.void(0); (from demo.designwall.com/dw-focus/sharks-rally-late-stay-perfect-with-so-win/)
+07:03:03	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-content/uploads/sites/10/should-you-be-insuring-your-smartphones-and-tablets.jpg (from demo.designwall.com/dw-focus/author/dagny-lage/)
+07:03:04	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=617
+07:03:04	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=617 to http://demo.designwall.com/dw-focus/heavy-rain-composer-dead/
+07:03:04	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/heavy-rain-composer-dead/javascript.void(0); (from demo.designwall.com/dw-focus/heavy-rain-composer-dead/)
+07:03:04	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=670
+07:03:04	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=670 to http://demo.designwall.com/dw-focus/obama-asks-congress-for-32m-to-train-african-troops-in-mali/
+07:03:04	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fobama-asks-congress-for-32m-to-train-african-troops-in-mali%2F (from demo.designwall.com/dw-focus/obama-asks-congress-for-32m-to-train-african-troops-in-mali/)
+07:03:05	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/obama-asks-congress-for-32m-to-train-african-troops-in-mali/javascript.void(0); (from demo.designwall.com/dw-focus/obama-asks-congress-for-32m-to-train-african-troops-in-mali/)
+07:03:05	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=698
+07:03:05	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=698 to http://demo.designwall.com/dw-focus/harkin-retirement-sets-off-political-scramble-in-iowa/
+07:03:05	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fharkin-retirement-sets-off-political-scramble-in-iowa%2F (from demo.designwall.com/dw-focus/harkin-retirement-sets-off-political-scramble-in-iowa/)
+07:03:06	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/harkin-retirement-sets-off-political-scramble-in-iowa/javascript.void(0); (from demo.designwall.com/dw-focus/harkin-retirement-sets-off-political-scramble-in-iowa/)
+07:03:06	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/chris-brown-may-face-assault-charges-over-brawl-involving-frank-ocean/javascript.void(0); (from demo.designwall.com/dw-focus/chris-brown-may-face-assault-charges-over-brawl-involving-frank-ocean/)
+07:03:06	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/?p=565 (from demo.designwall.com/dw-focus/barbara-walters-in-the-hospital-with-chicken-pox/)
+07:03:06	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/barbara-walters-in-the-hospital-with-chicken-pox/javascript.void(0); (from demo.designwall.com/dw-focus/barbara-walters-in-the-hospital-with-chicken-pox/)
+07:03:13	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=708
+07:03:13	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=708 to http://demo.designwall.com/dw-focus/rangers-hold-off-flyers/
+07:03:13	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/rangers-hold-off-flyers/javascript.void(0); (from demo.designwall.com/dw-focus/rangers-hold-off-flyers/)
+07:03:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=652
+07:03:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=652 to http://demo.designwall.com/dw-focus/everything-you-wanted-to-know-about-facebook-groups/
+07:03:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/everything-you-wanted-to-know-about-facebook-groups/javascript.void(0); (from demo.designwall.com/dw-focus/everything-you-wanted-to-know-about-facebook-groups/)
+07:03:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=690
+07:03:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=690 to http://demo.designwall.com/dw-focus/obama-suggests-republicans-unwilling-to-compromise-in-gun-control-debate/
+07:03:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/obama-suggests-republicans-unwilling-to-compromise-in-gun-control-debate/javascript.void(0); (from demo.designwall.com/dw-focus/obama-suggests-republicans-unwilling-to-compromise-in-gun-control-debate/)
+07:03:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=722
+07:03:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=722 to http://demo.designwall.com/dw-focus/lakers-edge-hornets-111-106-for-3rd-straight-win/
+07:03:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/lakers-edge-hornets-111-106-for-3rd-straight-win/javascript.void(0); (from demo.designwall.com/dw-focus/lakers-edge-hornets-111-106-for-3rd-straight-win/)
+07:03:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=605
+07:03:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=605 to http://demo.designwall.com/dw-focus/crytek-talks-homefront-2/
+07:03:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/crytek-talks-homefront-2/javascript.void(0); (from demo.designwall.com/dw-focus/crytek-talks-homefront-2/)
+07:03:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/thousands-march-for-gun-control-in-washington/javascript.void(0); (from demo.designwall.com/dw-focus/thousands-march-for-gun-control-in-washington/)
+07:03:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=696
+07:03:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=696 to http://demo.designwall.com/dw-focus/police-barred-from-vermont-gun-range-over-proposed-semi-automatic-rifle-ban/
+07:03:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/police-barred-from-vermont-gun-range-over-proposed-semi-automatic-rifle-ban/javascript.void(0); (from demo.designwall.com/dw-focus/police-barred-from-vermont-gun-range-over-proposed-semi-automatic-rifle-ban/)
+07:03:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=333
+07:03:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=333 to http://demo.designwall.com/dw-focus/the-man-who-sold-the-world/
+07:03:19	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/the-man-who-sold-the-world/javascript.void(0); (from demo.designwall.com/dw-focus/the-man-who-sold-the-world/)
+07:03:19	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1008
+07:03:19	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1008 to http://demo.designwall.com/dw-focus/questions/running-a-gallery-shortcode-in-a-custom-fields-widget/
+07:03:20	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1015
+07:03:20	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1015 to http://demo.designwall.com/dw-focus/questions/how-to-display-custom-user-meta-from-registration-in-backend/
+07:03:20	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1005
+07:03:20	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1005 to http://demo.designwall.com/dw-focus/questions/jquery-flexslider-issue-with-navigation/
+07:03:20	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1017
+07:03:20	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1017 to http://demo.designwall.com/dw-focus/questions/leveraging-wordpress-comments-on-custom-plugin-object-page/
+07:03:20	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1014
+07:03:20	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1014 to http://demo.designwall.com/dw-focus/questions/why-only-one-post-and-no-pagination-on-this-variation-of-the-loop/
+07:03:20	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1010
+07:03:20	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1010 to http://demo.designwall.com/dw-focus/questions/custom-field-display-only-if-a-specific-key-is-selected-outside-the-loop/
+07:03:21	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1007
+07:03:21	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1007 to http://demo.designwall.com/dw-focus/questions/reverse_top_level-works-the-opposite-way-according-to-codex/
+07:03:36	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/questions/category/questions/?paged=1
+07:03:36	Warning: 	File has moved from demo.designwall.com/dw-focus/questions/category/questions/?paged=1 to http://demo.designwall.com/dw-focus/questions/category/questions/
+07:03:36	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/questions/category/questions/?paged=2&filter=all
+07:03:36	Warning: 	File has moved from demo.designwall.com/dw-focus/questions/category/questions/?paged=2&filter=all to http://demo.designwall.com/dw-focus/questions/category/questions/page/2/?filter=all
+07:03:36	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1016
+07:03:36	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1016 to http://demo.designwall.com/dw-focus/questions/wildcard-enabled-yet-wordpress-is-not-creating-sub-domains/
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/dwqa-questions/?paged=1
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/dwqa-questions/?paged=1 to http://demo.designwall.com/dw-focus/dwqa-questions/
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=713
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=713 to http://demo.designwall.com/dw-focus/sharks-rally-late-stay-perfect-with-so-win/sharks-rally-late-stay-perfect-with-so-win-2/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/sharks-rally-late-stay-perfect-with-so-win/sharks-rally-late-stay-perfect-with-so-win-2/javascript.void(0); (from demo.designwall.com/dw-focus/sharks-rally-late-stay-perfect-with-so-win/sharks-rally-late-stay-perfect-with-so-win-2/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=737
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=737 to http://demo.designwall.com/dw-focus/bryant-helps-lakers-to-3rd-straight-win/bryant-helps-lakers-to-3rd-straight-win-2/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/bryant-helps-lakers-to-3rd-straight-win/bryant-helps-lakers-to-3rd-straight-win-2/javascript.void(0); (from demo.designwall.com/dw-focus/bryant-helps-lakers-to-3rd-straight-win/bryant-helps-lakers-to-3rd-straight-win-2/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=735
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=735 to http://demo.designwall.com/dw-focus/mancini-may-not-replace-balotelli/mancini-may-not-replace-balotelli-2/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/mancini-may-not-replace-balotelli/mancini-may-not-replace-balotelli-2/javascript.void(0); (from demo.designwall.com/dw-focus/mancini-may-not-replace-balotelli/mancini-may-not-replace-balotelli-2/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=733
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=733 to http://demo.designwall.com/dw-focus/jennings-leads-bucks-in-rout-of-pistons/jennings-leads-bucks-in-rout-of-pistons-2/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/jennings-leads-bucks-in-rout-of-pistons/jennings-leads-bucks-in-rout-of-pistons-2/javascript.void(0); (from demo.designwall.com/dw-focus/jennings-leads-bucks-in-rout-of-pistons/jennings-leads-bucks-in-rout-of-pistons-2/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=731
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=731 to http://demo.designwall.com/dw-focus/no-23-minnesota-williams-topple-nebraska/no-23-minnesota-williams-topple-nebraska-2/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/no-23-minnesota-williams-topple-nebraska/no-23-minnesota-williams-topple-nebraska-2/javascript.void(0); (from demo.designwall.com/dw-focus/no-23-minnesota-williams-topple-nebraska/no-23-minnesota-williams-topple-nebraska-2/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=729
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=729 to http://demo.designwall.com/dw-focus/wiltjer-pushes-wildcats-past-rebels/wiltjer-pushes-wildcats-past-rebels-2/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/wiltjer-pushes-wildcats-past-rebels/wiltjer-pushes-wildcats-past-rebels-2/javascript.void(0); (from demo.designwall.com/dw-focus/wiltjer-pushes-wildcats-past-rebels/wiltjer-pushes-wildcats-past-rebels-2/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=641
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=641 to http://demo.designwall.com/dw-focus/will-the-new-blackberry-phones-look-like-this/will-the-new-blackberry-phones-look-like-this-2/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/will-the-new-blackberry-phones-look-like-this/will-the-new-blackberry-phones-look-like-this-2/javascript.void(0); (from demo.designwall.com/dw-focus/will-the-new-blackberry-phones-look-like-this/will-the-new-blackberry-phones-look-like-this-2/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=653
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=653 to http://demo.designwall.com/dw-focus/everything-you-wanted-to-know-about-facebook-groups/everything-you-wanted-to-know-about-facebook-groups-2/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/everything-you-wanted-to-know-about-facebook-groups/everything-you-wanted-to-know-about-facebook-groups-2/javascript.void(0); (from demo.designwall.com/dw-focus/everything-you-wanted-to-know-about-facebook-groups/everything-you-wanted-to-know-about-facebook-groups-2/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=639
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=639 to http://demo.designwall.com/dw-focus/article-demo-showcase-what-markup-you-can-use-in-your-news-article/hackers-take-over-sentencing-commission-website-2/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/article-demo-showcase-what-markup-you-can-use-in-your-news-article/hackers-take-over-sentencing-commission-website-2/javascript.void(0); (from demo.designwall.com/dw-focus/article-demo-showcase-what-markup-you-can-use-in-your-news-article/hackers-take-over-sentencing-commission-website-2/)
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/soul-sacrifice-out-april-30/javascript.void(0); (from demo.designwall.com/dw-focus/soul-sacrifice-out-april-30/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=565
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=565 to http://demo.designwall.com/dw-focus/barbara-walters-in-the-hospital-with-chicken-pox/
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=672
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=672 to http://demo.designwall.com/dw-focus/obama-birth-control-mandate-loosens-lawsuits/
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/obama-birth-control-mandate-loosens-lawsuits/javascript.void(0); (from demo.designwall.com/dw-focus/obama-birth-control-mandate-loosens-lawsuits/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=734
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=734 to http://demo.designwall.com/dw-focus/mancini-may-not-replace-balotelli/
+07:03:51	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.designwall.com%2Fdw-focus%2Fmancini-may-not-replace-balotelli%2F&format=xml (from demo.designwall.com/dw-focus/mancini-may-not-replace-balotelli/)
+07:03:51	Error: 	"Not Found" (404) at link demo.designwall.com/dw-focus/mancini-may-not-replace-balotelli/javascript.void(0); (from demo.designwall.com/dw-focus/mancini-may-not-replace-balotelli/)
+07:03:51	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/dwqa-questions/?paged=1&filter=all
+07:03:51	Warning: 	File has moved from demo.designwall.com/dw-focus/dwqa-questions/?paged=1&filter=all to http://demo.designwall.com/dw-focus/dwqa-questions/?filter=all
+07:03:55	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/questions/category/questions/?paged=1&filter=all
+07:03:55	Warning: 	File has moved from demo.designwall.com/dw-focus/questions/category/questions/?paged=1&filter=all to http://demo.designwall.com/dw-focus/questions/category/questions/?filter=all
+07:03:55	Warning: 	Moved Permanently for demo.designwall.com/dw-focus/?p=1004
+07:03:55	Warning: 	File has moved from demo.designwall.com/dw-focus/?p=1004 to http://demo.designwall.com/dw-focus/questions/change-the-footer-text-on-the-login-page/
+07:54:38	Warning: 	Retry after error -2 (Receive Time Out) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=247 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=245)
+07:55:20	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=246 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=244)
+07:57:14	Warning: 	Retry after error -4 (Incorrect length (19078 Bytes, 20228 expected)) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=262 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=260)
+08:14:30	Warning: 	Retry after error -2 (Receive Time Out) at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=319 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=317)
+08:14:30	Warning: 	Retry after error -2 (Receive Time Out) at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=901 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=903)
+08:14:30	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=900 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=902)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=316 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=314)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=317 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=315)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=950 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=952)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=949 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=951)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=318 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=316)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=319 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=317)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=942 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=944)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=941 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=943)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=318 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=316)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=319 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=317)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=947 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=949)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=946 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=948)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=320 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=318)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=319 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=317)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=901 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=903)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=900 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=902)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=316 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=314)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=317 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=315)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=950 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=952)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=949 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=951)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=318 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=316)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=319 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=317)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=942 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=944)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=941 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=943)
+08:14:31	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=318 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=316)
+08:14:32	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=319 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=317)
+08:14:32	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=947 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=949)
+08:14:32	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=946 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=948)
+08:14:32	Warning: 	Retry after error -4 (Connect Error) at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=320 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=318)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=319 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=317)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=901 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=903)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=900 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=902)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=316 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=314)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=317 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=315)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=950 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=952)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=949 (from demo.designwall.com/dw-focus/questions/i-can-not-add-a-new-page-in-our-theme/?ans-page=951)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=318 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=316)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=319 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=317)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=942 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=944)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=941 (from demo.designwall.com/dw-focus/questions/my-database-is-not-being-created-on-wordpress-plugin-activation/?ans-page=943)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=318 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=316)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=319 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=317)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=947 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=949)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=946 (from demo.designwall.com/dw-focus/questions/how-to-add-buttons-on-comment-form/?ans-page=948)
+08:14:32	Error: 	"Connect Error" (-4) after 2 retries at link demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=320 (from demo.designwall.com/dw-focus/questions/i-can-not-edit-the-question/?ans-page=318)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 43 minutes 59 seconds : 4267 links scanned, 3845 files written (457569805 bytes overall) [90448041 bytes received at 14497 bytes/sec], 471023069 bytes transferred using HTTP compression in 3688 files, ratio 17%, 1.0 requests per connection
+(160 errors, 435 warnings, 0 messages)

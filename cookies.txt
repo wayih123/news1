@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.designwall.com	TRUE	/dw-focus/wp-content/plugins	FALSE	1999999999	wordpress_30f9933e2b7638e92daea97b804cfaa1	+
+demo.designwall.com	TRUE	/dw-focus/wp-content/plugins	FALSE	1999999999	wordpress_sec_30f9933e2b7638e92daea97b804cfaa1	+
+demo.designwall.com	TRUE	/	FALSE	1999999999	PHPSESSID	4c87f4a7d543d376fb398b9b7224a440
+demo.designwall.com	TRUE	/	FALSE	1999999999	dwqa_anonymous	670HaBbWvKBfVJBhUZUPNEWkEUQQI5PtmYKJKawD8k7
+demo.designwall.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+demo.designwall.com	TRUE	/	FALSE	1999999999	wordpress_logged_in_30f9933e2b7638e92daea97b804cfaa1	+
+demo.designwall.com	TRUE	/	FALSE	1999999999	wordpress_30f9933e2b7638e92daea97b804cfaa1	+
+demo.designwall.com	TRUE	/	FALSE	1999999999	wordpress_sec_30f9933e2b7638e92daea97b804cfaa1	+
+demo.designwall.com	TRUE	/	FALSE	1999999999	wordpressuser_30f9933e2b7638e92daea97b804cfaa1	+
+demo.designwall.com	TRUE	/	FALSE	1999999999	wordpresspass_30f9933e2b7638e92daea97b804cfaa1	+
+
